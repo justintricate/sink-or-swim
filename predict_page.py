@@ -43,7 +43,7 @@ def show_predict_page():
     left, center, right = st.columns(3)
 
     with left:
-        st.write("[Check out my GitHub >](https://github.com/jusintricate)")
+        st.write("[Check out my GitHub >](https://github.com/justintricate)")
     with center:
         st.write("[This project's repo >](https://github.com/justintricate/sink-or-swim)")
     with right:
