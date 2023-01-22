@@ -45,7 +45,7 @@ def show_predict_page():
     with left:
         st.write("[Check out my GitHub >](https://github.com/jusintricate)")
     with center:
-        st.write("[This project's repo >](https://github.com/justintricate)")
+        st.write("[This project's repo >](https://github.com/justintricate/sink-or-swim)")
     with right:
         st.write("[Learn about the Titanic >](https://en.wikipedia.org/wiki/Titanic)")
 
