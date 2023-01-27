@@ -2,7 +2,7 @@
 
 The sinking of the RMS Titanic is the deadliest peacetime maritime disaster to date. In this webapp, we set out to use machine learning, and predict whether a user would have survived or perished.
 
-* Front-end written in Python, using Streamlit.
+* Written in Python, deployed via Streamlit.
 * An exercise in machine learning and data modeling, using Jupyter Notebook.
 * Uses scikit-learn's decision tree regressor model with a 90% certainty.
 
