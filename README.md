@@ -1,4 +1,8 @@
 # [Sink or Swim](https://sink-or-swim.streamlit.app/)
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 The sinking of the RMS Titanic is the deadliest peacetime maritime disaster to date. In this webapp, we set out to use machine learning, and predict whether a user would have survived or perished.
 
