@@ -18,7 +18,7 @@ def show_predict_page():
     st.set_page_config(page_title="Sink or Swim", page_icon=":ship:")
     st.title('Sink or Swim :ship:')
     st.subheader('Would you have survived the RMS Titanic?')
-    st.write("The sinking of the RMS Titanic is the deadliest peacetime maritime disaster to date, and resulted in the loss of over 1500 people. Using machine learning (a decision tree regressor model if you're curious,) we can predict whether *you* would sink or swim.")
+    st.write("The sinking of the RMS Titanic is the deadliest peacetime maritime disaster to date, and resulted in the loss of over 1500 people. Using a machine learning model, we can predict whether *you* would sink or swim.")
 
     pclass = st.select_slider('What class were you riding in? (1st, 2nd, 3rd)',[1,2,3])
     sex = st.selectbox('Sex:', ['male', 'female'])
